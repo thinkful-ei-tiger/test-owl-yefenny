@@ -1,0 +1,179 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component Render UI without problem 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="participant-list"
+  >
+    <ul>
+      <li>
+        <div
+          className="participant"
+        >
+          <div
+            className="participant-img"
+          >
+            <img
+              alt="avatar"
+              src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+            />
+          </div>
+          <div
+            className="participant-details"
+          >
+            <h2>
+              Koren Templeton
+            </h2>
+            <div
+              className="participant-status"
+            >
+              <span
+                className="circle bg-green"
+              />
+              <span
+                className="status"
+              >
+                on stage
+              </span>
+            </div>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div
+          className="participant"
+        >
+          <div
+            className="participant-img"
+          >
+            <img
+              alt="avatar"
+              src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+            />
+          </div>
+          <div
+            className="participant-details"
+          >
+            <h2>
+              Caty Flucker
+            </h2>
+            <div
+              className="participant-status"
+            >
+              <span
+                className="circle bg-green"
+              />
+              <span
+                className="status"
+              >
+                in session
+              </span>
+            </div>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div
+          className="participant"
+        >
+          <div
+            className="participant-img"
+          >
+            <img
+              alt="avatar"
+              src="https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1"
+            />
+          </div>
+          <div
+            className="participant-details"
+          >
+            <h2>
+              Frank Runciman
+            </h2>
+            <div
+              className="participant-status"
+            >
+              <span
+                className="circle bg-green"
+              />
+              <span
+                className="status"
+              >
+                in session
+              </span>
+            </div>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div
+          className="participant"
+        >
+          <div
+            className="participant-img"
+          >
+            <img
+              alt="avatar"
+              src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+            />
+          </div>
+          <div
+            className="participant-details"
+          >
+            <h2>
+              Ashla Attwool
+            </h2>
+            <div
+              className="participant-status"
+            >
+              <span
+                className="circle bg-green"
+              />
+              <span
+                className="status"
+              >
+                on stage
+              </span>
+            </div>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div
+          className="participant"
+        >
+          <div
+            className="participant-img"
+          >
+            <img
+              alt="avatar"
+              src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+            />
+          </div>
+          <div
+            className="participant-details"
+          >
+            <h2>
+              Axe Kubicka
+            </h2>
+            <div
+              className="participant-status"
+            >
+              <span
+                className="circle bg-grey"
+              />
+              <span
+                className="status"
+              >
+                left session
+              </span>
+            </div>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+`;

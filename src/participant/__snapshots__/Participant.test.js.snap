@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Participant component Render UI without problem 1`] = `
+<div
+  className="participant"
+>
+  <div
+    className="participant-img"
+  >
+    <img
+      alt="avatar"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+  </div>
+  <div
+    className="participant-details"
+  >
+    <h2>
+      Koren Templeton
+    </h2>
+    <div
+      className="participant-status"
+    >
+      <span
+        className="circle bg-green"
+      />
+      <span
+        className="status"
+      >
+        on stage
+      </span>
+    </div>
+  </div>
+</div>
+`;
