@@ -13,14 +13,14 @@ const participants = [
     avatar:
       'https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1',
     inSession: true,
-    onStage: false
+    onStage: true
   },
   {
     id: 3,
     name: 'Axe Kubicka',
     avatar: 'https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1',
-    inSession: false,
-    onStage: false
+    inSession: true,
+    onStage: true
   },
   {
     id: 4,

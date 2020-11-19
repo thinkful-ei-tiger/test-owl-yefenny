@@ -1,4 +1,15 @@
+.participant-list{
+    padding: 0;
+    padding-right: 50px;
+
+}
+.participant-list ul {
+    margin:0;
+    padding: 0;
+}
 .participant-list ul li {
     list-style: none;
-    margin: 15px;
+    margin: 0px;
+    margin-bottom: 15px;
 }
+

@@ -1,0 +1,36 @@
+.partner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.header{
+    width: 150px;
+    background-color: #373a40;
+    text-align: center;
+    color: white;
+    margin: 0;
+    border-radius: 3%;
+    align-self: center;
+    
+}
+.header h2{
+   
+    font-size: 14px;
+}
+
+.icons img {
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+}
+
+.avatar {
+    align-self: center;
+    border-radius: 50%;
+}
+
+.avatar img{
+    border-radius: 50%;
+    width: 200px;
+}

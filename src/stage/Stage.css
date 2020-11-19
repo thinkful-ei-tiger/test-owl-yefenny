@@ -1,0 +1,29 @@
+.stage {
+    background-color: #686d76;
+    flex: 2;
+}
+.partners{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.personal-stage{
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+}
+.personal-img{
+    display: flex;
+    display: column;
+    width: 150px;
+    height: 90px;
+    justify-content: center;
+    background-color: #373a40;
+    border-radius: 3%;
+}
+.personal-img img {
+    align-self: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
