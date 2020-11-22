@@ -1,0 +1,35 @@
+.event{
+    color: darkgray;
+    margin: 15px 20px;
+}
+
+.message-type {
+    display: flex;
+   
+}
+
+.message-avatar img{
+    width: 50px;
+    border-radius: 50%;
+}
+
+.message-information{
+    display: flex;
+    flex-direction: column;
+}
+
+.message-header{
+    display: flex;
+    justify-content: center;
+    margin-left: 5px;
+}
+
+.message-header h2{
+   font-size: 16px;
+   margin-bottom: 0;
+   color: gray;
+}
+
+.message-header span {
+    margin: 13px 0 0 5px;
+}
