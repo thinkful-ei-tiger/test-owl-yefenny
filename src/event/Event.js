@@ -105,6 +105,8 @@ export default class Event extends Component {
           </div>
         );
         break;
+      default:
+        return <div></div>;
     }
   }
   render() {

@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Chat component UI renders without problem 1`] = `
+<div>
+  <div
+    className="event"
+  >
+    <div
+      className="message-type"
+    >
+      <div
+        className="message-avatar"
+      >
+        <img
+          alt="profile"
+          src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+        />
+      </div>
+      <div
+        className="message-information"
+      >
+        <div
+          className="message-header"
+        >
+          <h2>
+            Axe Kubicka
+          </h2>
+          <span>
+            07:50 a.m.
+          </span>
+        </div>
+        <div
+          className="message"
+        >
+          <p>
+            Hello world
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="event"
+  >
+    <div>
+      <span>
+        <strong>
+          Caty Flucker
+        </strong>
+         gave a thumbs up 👍
+      </span>
+    </div>
+  </div>
+  <div
+    className="event"
+  >
+    <div>
+      <span>
+        <strong>
+          Frank Runciman
+        </strong>
+         gave a thumbs down 👎
+      </span>
+    </div>
+  </div>
+  <div
+    className="event"
+  >
+    <div>
+      <span>
+        <strong>
+          Koren Templeton
+        </strong>
+         raise their hand ✋
+      </span>
+    </div>
+  </div>
+  <div
+    className="event"
+  >
+    <div>
+      <span>
+        <strong>
+          Koren Templeton
+        </strong>
+         clapped 👏
+      </span>
+    </div>
+  </div>
+  <div
+    className="event"
+  >
+    <div>
+      <span>
+        <strong>
+          Koren Templeton
+        </strong>
+         joined
+      </span>
+    </div>
+  </div>
+  <div
+    className="event"
+  >
+    <div>
+      <span>
+        <strong>
+          Ashla Attwool
+        </strong>
+         left
+      </span>
+    </div>
+  </div>
+  <div
+    className="event"
+  >
+    <div>
+      <span>
+        <strong>
+          Axe Kubicka
+        </strong>
+         joined the stage
+      </span>
+    </div>
+  </div>
+  <div
+    className="event"
+  >
+    <div>
+      <span>
+        <strong>
+          Axe Kubicka
+        </strong>
+         left the stage
+      </span>
+    </div>
+  </div>
+</div>
+`;

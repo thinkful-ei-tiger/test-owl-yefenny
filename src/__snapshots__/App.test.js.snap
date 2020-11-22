@@ -68,7 +68,40 @@ exports[`App component Render UI without problem 1`] = `
               <span
                 className="status"
               >
-                in session
+                on stage
+              </span>
+            </div>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div
+          className="participant"
+        >
+          <div
+            className="participant-img"
+          >
+            <img
+              alt="avatar"
+              src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+            />
+          </div>
+          <div
+            className="participant-details"
+          >
+            <h2>
+              Axe Kubicka
+            </h2>
+            <div
+              className="participant-status"
+            >
+              <span
+                className="circle bg-green"
+              />
+              <span
+                className="status"
+              >
+                on stage
               </span>
             </div>
           </div>
@@ -140,40 +173,261 @@ exports[`App component Render UI without problem 1`] = `
           </div>
         </div>
       </li>
-      <li>
+    </ul>
+  </div>
+  <div>
+    <div
+      className="event"
+    >
+      <div
+        className="message-type"
+      >
         <div
-          className="participant"
+          className="message-avatar"
+        >
+          <img
+            alt="profile"
+            src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+          />
+        </div>
+        <div
+          className="message-information"
         >
           <div
-            className="participant-img"
-          >
-            <img
-              alt="avatar"
-              src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
-            />
-          </div>
-          <div
-            className="participant-details"
+            className="message-header"
           >
             <h2>
               Axe Kubicka
             </h2>
-            <div
-              className="participant-status"
-            >
-              <span
-                className="circle bg-grey"
-              />
-              <span
-                className="status"
-              >
-                left session
-              </span>
-            </div>
+            <span>
+              07:50 a.m.
+            </span>
+          </div>
+          <div
+            className="message"
+          >
+            <p>
+              Hello world
+            </p>
           </div>
         </div>
-      </li>
-    </ul>
+      </div>
+    </div>
+    <div
+      className="event"
+    >
+      <div>
+        <span>
+          <strong>
+            Caty Flucker
+          </strong>
+           gave a thumbs up 👍
+        </span>
+      </div>
+    </div>
+    <div
+      className="event"
+    >
+      <div>
+        <span>
+          <strong>
+            Frank Runciman
+          </strong>
+           gave a thumbs down 👎
+        </span>
+      </div>
+    </div>
+    <div
+      className="event"
+    >
+      <div>
+        <span>
+          <strong>
+            Koren Templeton
+          </strong>
+           raise their hand ✋
+        </span>
+      </div>
+    </div>
+    <div
+      className="event"
+    >
+      <div>
+        <span>
+          <strong>
+            Koren Templeton
+          </strong>
+           clapped 👏
+        </span>
+      </div>
+    </div>
+    <div
+      className="event"
+    >
+      <div>
+        <span>
+          <strong>
+            Koren Templeton
+          </strong>
+           joined
+        </span>
+      </div>
+    </div>
+    <div
+      className="event"
+    >
+      <div>
+        <span>
+          <strong>
+            Ashla Attwool
+          </strong>
+           left
+        </span>
+      </div>
+    </div>
+    <div
+      className="event"
+    >
+      <div>
+        <span>
+          <strong>
+            Axe Kubicka
+          </strong>
+           joined the stage
+        </span>
+      </div>
+    </div>
+    <div
+      className="event"
+    >
+      <div>
+        <span>
+          <strong>
+            Axe Kubicka
+          </strong>
+           left the stage
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="stage"
+  >
+    <div
+      className="partners"
+    >
+      <div
+        className="partner"
+      >
+        <div
+          className="header"
+        >
+          <h2>
+            Caty Flucker
+          </h2>
+          <div
+            className="icons"
+          >
+            <span>
+              <img
+                alt="mute"
+                src="volume.svg"
+              />
+              <img
+                alt="search"
+                src="search.svg"
+              />
+            </span>
+          </div>
+        </div>
+        <div
+          className="avatar"
+        >
+          <img
+            alt="profile"
+            src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+          />
+        </div>
+      </div>
+      <div
+        className="partner"
+      >
+        <div
+          className="header"
+        >
+          <h2>
+            Axe Kubicka
+          </h2>
+          <div
+            className="icons"
+          >
+            <span>
+              <img
+                alt="mute"
+                src="volume.svg"
+              />
+              <img
+                alt="search"
+                src="search.svg"
+              />
+            </span>
+          </div>
+        </div>
+        <div
+          className="avatar"
+        >
+          <img
+            alt="profile"
+            src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+          />
+        </div>
+      </div>
+      <div
+        className="partner"
+      >
+        <div
+          className="header"
+        >
+          <h2>
+            Ashla Attwool
+          </h2>
+          <div
+            className="icons"
+          >
+            <span>
+              <img
+                alt="mute"
+                src="volume.svg"
+              />
+              <img
+                alt="search"
+                src="search.svg"
+              />
+            </span>
+          </div>
+        </div>
+        <div
+          className="avatar"
+        >
+          <img
+            alt="profile"
+            src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="personal-stage"
+    >
+      <div
+        className="personal-img"
+      >
+        <img
+          alt="personal"
+          src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+        />
+      </div>
+    </div>
   </div>
 </div>
 `;

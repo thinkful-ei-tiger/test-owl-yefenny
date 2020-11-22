@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Event Component UI renders without problem 1`] = `
+<div
+  className="event"
+>
+  <div
+    className="message-type"
+  >
+    <div
+      className="message-avatar"
+    >
+      <img
+        alt="profile"
+        src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+      />
+    </div>
+    <div
+      className="message-information"
+    >
+      <div
+        className="message-header"
+      >
+        <h2>
+          Axe Kubicka
+        </h2>
+        <span>
+          07:50 a.m.
+        </span>
+      </div>
+      <div
+        className="message"
+      >
+        <p>
+          Hello world
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

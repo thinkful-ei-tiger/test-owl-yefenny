@@ -8,8 +8,8 @@ function App() {
   return (
     <div className='App'>
       <ParticipantList participants={PARTICIPANTS} />
-      <Stage />
       <Chat />
+      <Stage />
     </div>
   );
 }
